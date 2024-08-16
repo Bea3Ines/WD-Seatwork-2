@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/Bea3Ines/">
-  <a href="https://github.com/Bea3Ines/WD-Seatwork-2>
+  <!--<a href="https://github.com/Bea3Ines/WD-Seatwork-2>-->
   <!-- TODO: If you want to add logo or banner you can add it here -->
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
@@ -13,7 +13,7 @@
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Website Resume
+  Resume Website
 </div>
 
 <br />
