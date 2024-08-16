@@ -4,23 +4,23 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/zyx-0314/">
+  <a href="https://github.com/Bea3Ines/">
+  <a href="https://github.com/Bea3Ines/WD-Seatwork-2>
   <!-- TODO: If you want to add logo or banner you can add it here -->
-    <img src="./assets/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 <!-- TODO: Change Title to the name of the title of your Project -->
-  <h3 align="center">Title</h3>
+  <h3 align="center">WD-Seatwork-2:</h3>
 </div>
 <!-- TODO: Make a short description -->
 <div align="center">
-  Short Description. (Optional)
+  Website Resume
 </div>
 
 <br />
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=zyx-0314/WD-Template-Project)
+![](https://visit-counter.vercel.app/counter.png?Bea3Ines/WD-Seatwork-2)
 
 ---
 
@@ -54,29 +54,29 @@
 ---
 
 ## Overview
-
+This is project is designed for future web page. This is to practice on how to fix layouts and infos in a better way.
 <!-- TODO: To be changed -->
 <!-- The following are just sample -->
-Description of the project in details.
+<!--Description of the project in details.
 
 Guiding Question:
 - What is the project
 - Whats the purpose
 - What are key components
-- What technology used and how it is used
+- What technology used and how it is used-->
 
 ### Key Components
 <!-- TODO: List of Key Components -->
 <!-- The following are just sample -->
-- MultiPage Website/Single Page Website
-- Parallax transition
-- Transactional
+- Website Resume
+- Card
+- Navigation
 
 ### Technology
 <!-- TODO: List of Technology Used -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+<!--[JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)-->
 
 ## Rules, Practices and Principles
 1. Always use `WD-` in the front of the Title of the Project for the Subject followed by your custom naming.
@@ -117,4 +117,7 @@ WD-ProjectName
 <!-- TODO: Add References -->
 | Title | Purpose | Link |
 |-|-|-|
-| Sample Title | Sample purpose would be here like this and this is the example of what it is. | trykolang.com |
+| W3Schools | It's a web page tutorial for web designers which features css templates, guides and examples | https://www.w3schools.com |
+| Youtube | YouTube is a popular video sharing website where registered users can upload and share videos with anyone able to access the site. | youtube.com |
+| Google Fonts | A google service which has kinds of icons and fonts to choose | fonts.google.com |
+| Freepik	| logos, pics, features, icons, etc. | Freepik.com |
